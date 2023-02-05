@@ -1,0 +1,6 @@
+La Concaténation des deux fichiers donne : hello i am : 
+    a simple text file 
+
+puis 
+
+hello thi is fil1.txt on A/B path of project current 

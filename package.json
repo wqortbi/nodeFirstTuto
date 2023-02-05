@@ -1,0 +1,16 @@
+{
+  "name": "wqp1",
+  "version": "1.0.1",
+  "description": "Projet tuto pour cours introduction to nodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node maine.js"
+  },
+  "author": "WQ",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21",
+    "nodash": "^0.12.0"
+  }
+}
